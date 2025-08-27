@@ -38,14 +38,6 @@ Sends audio alerts, logs images, and sends SMS/email notifications to authoritie
 - Object tracking (location + duration)  
 - Alert system: visual + audio + message/email
 
-**UML Diagrams included:**  
-- Use Case Diagram  
-- Class Diagram  
-- Sequence Diagram  
-- Activity Diagram  
-- Deployment Diagram  
-- DFD (Level 0 to Level 3)
-
 ## 💻 Technologies Used
 
 | Component         | Technology          |
